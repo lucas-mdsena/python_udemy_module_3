@@ -2,7 +2,7 @@
 Este repositório contém os materiais utilizados nas aulas do módulo 2, no curso da Udemy.
 ***
 
-# **O horizonte de DataViz com Python e objetivo deste módulo**
+# **O horizonte de DataViz com Python e o objetivo deste módulo**
 
 # **Biblioteca Matplotlib**
 [Matplotlib](https://matplotlib.org/)
