@@ -31,12 +31,12 @@ Com todo esse recurso, o horizonte de possibilidades é bastante amplo.
 
 ## **Dashboards**
 ### [Sistema de controle de produção](https://dash.gallery/dash-manufacture-spc-dashboard/)
-Fonte: https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-manufacture-spc-dashboard
+[Fonte](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-manufacture-spc-dashboard)
 <br><br>
 
 > Precisamos, portanto, ter um objetivo bem definido diante das possibilidades.
 
-Com o foco do nosso curso sendo uma abordagem ampla sobre a linguagem Python para análise de dados, vamos estudar, neste módulo, a criação de gráficos com a biblioteca Matplotlib, especificamente:
+Com o foco do nosso curso sendo uma abordagem geral sobre a linguagem Python para análise de dados, vamos estudar, neste módulo, a criação de gráficos com a biblioteca Matplotlib, especificamente:
 - Componentes de um gráfico Matplotlib;
 - Abordagens de sintaxe da biblioteca;
 - Escolha do tipo de gráfico adequado ao problema;
