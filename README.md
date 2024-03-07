@@ -34,7 +34,8 @@ Com todo esse recurso, o horizonte de possibilidades é bastante amplo.
 Fonte: https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-manufacture-spc-dashboard
 <br><br>
 
-> Precisamos, portanto, ter um objetivo bem definido diante das possibilidades.<br>
+> Precisamos, portanto, ter um objetivo bem definido diante das possibilidades.<
+<br>
 Com o foco do nosso curso sendo uma abordagem ampla sobre a linguagem Python para análise de dados, vamos estudar, neste módulo, a criação de gráficos com a biblioteca Matplotlib, especificamente:
 - Componentes de um gráfico Matplotlib
 - Abordagens de sintaxe da biblioteca
@@ -42,7 +43,7 @@ Com o foco do nosso curso sendo uma abordagem ampla sobre a linguagem Python par
 - Criação de gráficos para visualização de categorias, correlações, distribuições e evoluções
 - Boas práticas na estilização de gráficos
 - Uma pitada sobre storytelling
-- <br><br>
+<br><br>
 
 # **Biblioteca Matplotlib**
 [Matplotlib](https://matplotlib.org/)
