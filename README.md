@@ -37,12 +37,12 @@ Fonte: https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-manufactur
 > Precisamos, portanto, ter um objetivo bem definido diante das possibilidades.
 
 Com o foco do nosso curso sendo uma abordagem ampla sobre a linguagem Python para análise de dados, vamos estudar, neste módulo, a criação de gráficos com a biblioteca Matplotlib, especificamente:
-- Componentes de um gráfico Matplotlib
-- Abordagens de sintaxe da biblioteca
-- Escolha do tipo de gráfico adequado ao problema
-- Criação de gráficos para visualização de categorias, correlações, distribuições e evoluções
-- Boas práticas na estilização de gráficos
-- Uma pitada sobre storytelling
+- Componentes de um gráfico Matplotlib;
+- Abordagens de sintaxe da biblioteca;
+- Escolha do tipo de gráfico adequado ao problema;
+- Criação de gráficos para visualização de categorias, correlações, distribuições e evoluções;
+- Boas práticas na estilização de gráficos;
+- Uma pitada sobre storytelling.
 <br><br>
 
 # **Biblioteca Matplotlib**
