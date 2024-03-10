@@ -46,7 +46,11 @@ Com o foco do nosso curso sendo uma abordagem geral sobre a linguagem Python par
 <br><br>
 
 # **Biblioteca Matplotlib**
-[Matplotlib](https://matplotlib.org/)
+
+[Matplotlib](https://matplotlib.org/) é uma biblioteca *open-source* desenvolvida para Python no ano de 2003, para a geração de gráficos.<br>
+Uma das motivações para a criação da biblioteca foi o objetivo de oferecer a mesma usabilidade da linguagem MATLAB, dentro do Python, por meio do módulo Pytplot (veremos isso em sequência).<br>
+É uma bilbioteca que oferece grande liberdade para manipulação dos elementos de um gráfico e faz parte do arsenal para a análise de dados.
+<br><br>
 
 # **Componentes de um gráfico no Matplotlib**
 
