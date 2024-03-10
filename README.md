@@ -57,13 +57,14 @@ Uma das motivações para a criação da biblioteca foi o objetivo de oferecer a
 Como dito, a biblioteca oferece grande liberdade na manipulação dos gráficos, e, para utilizarmos bem as suas ferramentas, precisamos conhecer a **anatomia das partes de um gráfico Matplotlib**.
 <br>
 
-Existem 4 elementos principais que compõem um gráficos e, de fora para dentro, podemos elencá-los: Figure -> Axes -> Axis -> Artist
+Existem 4 elementos principais que compõem um gráficos e, de fora para dentro, podemos elencá-los:<br> 
+Figure -> Axes -> Axis -> Artist
 <br>
 
-- Figure: é a parte mais abrangente da plotagem, o quadro onde serão criados um ou mais gráficos.
-![figure_intro-1](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/ca6ffc56-f502-4e25-9558-4bbdeb859eb6)
+- **Figure**: é a parte mais abrangente da plotagem, o quadro onde serão criados um ou mais gráficos.
+![figure_intro-1](Imagens/figure_intro-1)
 
 
-
+<br><br>
 
 # **Abordagens de código: Pyplot x orientação a objetos**
