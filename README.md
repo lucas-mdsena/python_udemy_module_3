@@ -61,7 +61,7 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 Figure -> Axes -> Axis -> Artist
 <br>
 
-- **Figure**: é a parte mais abrangente da plotagem, o quadro onde serão criados um ou mais gráficos.
+- **Figure**: é a parte mais abrangente da plotagem, o quadro onde serão criados um ou mais gráficos.<br>
 ![figure_intro-1](Imagens/figure_intro-1.png)
 
 
