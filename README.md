@@ -48,10 +48,22 @@ Com o foco do nosso curso sendo uma abordagem geral sobre a linguagem Python par
 # **Biblioteca Matplotlib**
 
 [Matplotlib](https://matplotlib.org/) é uma biblioteca *open-source* desenvolvida para Python no ano de 2003, para a geração de gráficos.<br>
-Uma das motivações para a criação da biblioteca foi o objetivo de oferecer a mesma usabilidade da linguagem MATLAB, dentro do Python, por meio do módulo Pytplot (veremos isso em sequência).<br>
+Uma das motivações para a criação da biblioteca foi o objetivo de oferecer a mesma usabilidade do software MATLAB, dentro do Python, por meio do módulo Pytplot (veremos isso em sequência).<br>
 É uma bilbioteca que oferece grande liberdade para manipulação dos elementos de um gráfico e faz parte do arsenal para a análise de dados.
 <br><br>
 
 # **Componentes de um gráfico no Matplotlib**
+
+Como dito, a biblioteca oferece grande liberdade na manipulação dos gráficos, e, para utilizarmos bem as suas ferramentas, precisamos conhecer a **anatomia das partes de um gráfico Matplotlib**.
+<br>
+
+Existem 4 elementos principais que compõem um gráficos e, de fora para dentro, podemos elencá-los: Figure -> Axes -> Axis -> Artist
+<br>
+
+- Figure: é a parte mais abrangente da plotagem, o quadro onde serão criados um ou mais gráficos.
+![figure_intro-1](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/ca6ffc56-f502-4e25-9558-4bbdeb859eb6)
+
+
+
 
 # **Abordagens de código: Pyplot x orientação a objetos**
