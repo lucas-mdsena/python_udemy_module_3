@@ -62,10 +62,12 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 <br>
 
 - **Figure**: é a parte mais abrangente da plotagem, o quadro onde serão criados um ou mais gráficos.<br>
+
 ![figure_intro-1](Imagens/figure_intro-1.png) <br>
 
-A região em azul na imagem é a figure, que possui apenas 1 gráfico plotado.
+  A região em azul na imagem é a figure, que possui apenas 1 gráfico plotado.
 
+- **Axes**
 <br><br>
 
 # **Abordagens de código: Pyplot x orientação a objetos**
