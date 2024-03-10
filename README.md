@@ -62,7 +62,7 @@ Figure -> Axes -> Axis -> Artist
 <br>
 
 - **Figure**: é a parte mais abrangente da plotagem, o quadro onde serão criados um ou mais gráficos.
-![figure_intro-1](Imagens/figure_intro-1)
+![figure_intro-1](Imagens/figure_intro-1.png)
 
 
 <br><br>
