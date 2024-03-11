@@ -61,32 +61,32 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 > **Figure -> Axes -> Axis -> Artist**
 <br>
 
-- **Figure**: é a parte mais abrangente da plotagem, o quadro onde será criado um ou mais gráficos.<br>
+- **Figure**: é a parte mais abrangente da plotagem, o quadro onde será criado um ou mais gráficos.
+  <br>
 
   ![figure_intro-1](Imagens/figure_intro-1.png)
   <br>
+  *A região em azul na imagem é a figure, que possui apenas 1 gráfico plotado.*
+  <br>
   [Fonte](https://matplotlib.org/stable/users/explain/figure/figure_intro.html#figure-intro)
   <br>
-
-  A região em azul na imagem é a figure, que possui apenas 1 gráfico plotado.
 
 - **Axes**: é a parte de uma figure que contém o gráfico plotado, e uma figure pode ter vários axes. Axes possuem 2 Axis (em gráficos bidimensionais), um título, e labels para os eixos x e y.
   <br>
 
   ![figure_intro-1](Imagens/figure_intro-2.png)
   <br>
+  *A imagem acima mostra uma figure com 4 axes.*
+  <br>
   [Fonte](https://matplotlib.org/stable/users/explain/figure/figure_intro.html#figure-intro)
   <br>
-
-  A imagem acima mostra uma figure com 4 axes.
 
 - **Axis**: são os componentes do axes que definem as escalas medidas pelo gráfico. Em plotagens bidimensionais, podemos compará-los aos eixos x e y.
 - **Artist**: todos os elementos dentro de uma figure são os artist e também o que é plotado dentro de uma figure.
   <br>
 
   ![figure_intro-1](Imagens/anatomy.webp)
-  <br>
-
+  
 <br><br>
 
 # **4. Abordagens de código: Pyplot x orientação a objetos**
