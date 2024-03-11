@@ -59,7 +59,6 @@ Como dito, a biblioteca oferece grande liberdade na manipulação dos gráficos,
 
 Existem 4 elementos principais que compõem um gráficos e, de fora para dentro, podemos elencá-los:<br> 
 > **Figure -> Axes -> Axis -> Artist**
-<br>
 
 - **Figure**: é a parte mais abrangente da plotagem, o quadro onde será criado um ou mais gráficos.
   <br>
@@ -87,6 +86,6 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 
   ![figure_intro-1](Imagens/anatomy.webp)
   
-<br><br>
+<br>
 
 # **4. Abordagens de código: Pyplot x orientação a objetos**
