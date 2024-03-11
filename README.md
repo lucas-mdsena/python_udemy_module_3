@@ -95,9 +95,7 @@ Existem duas formas de se usar a biblioteca Matplotlib: a interface Pyplot ou a 
 ## Orientação a objetos
 Utilizando a sintaxe OO (orientada a objetos), criamos explicitamente os elementos Figure e Axes. Isso nos permite maior liberdade para manipular os elementos do gráfico.
 `
-# comentário
 código aqui
-
 `
 
 
