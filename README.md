@@ -2,7 +2,7 @@
 Este repositório contém os materiais utilizados nas aulas do módulo 2, no curso da Udemy.
 ***
 
-# **O horizonte de DataViz com Python e o objetivo deste módulo**
+# **1. O horizonte de DataViz com Python e o objetivo deste módulo**
 
 Desde um simples gráfico de barras a um dashboard interativo, com a linguagem Python tem-se diversas ferramentas para visualização de dados e customização gráfica. Entre elas pode-se destacar as bibliotecas Matplotlib, Seaborn, Plotly, Dash.
 <br><br>
@@ -45,14 +45,14 @@ Com o foco do nosso curso sendo uma abordagem geral sobre a linguagem Python par
 - Uma pitada sobre storytelling.
 <br><br>
 
-# **Biblioteca Matplotlib**
+# **2. Biblioteca Matplotlib**
 
 [Matplotlib](https://matplotlib.org/) é uma biblioteca *open-source* desenvolvida para Python no ano de 2003, para a geração de gráficos.<br>
 Uma das motivações para a criação da biblioteca foi o objetivo de oferecer a mesma usabilidade do software MATLAB, dentro do Python, por meio do módulo Pytplot (veremos isso em sequência).<br>
 É uma bilbioteca que oferece grande liberdade para manipulação dos elementos de um gráfico e faz parte do arsenal para a análise de dados.
 <br><br>
 
-# **Componentes de um gráfico no Matplotlib**
+# **3. Componentes de um gráfico no Matplotlib**
 
 Como dito, a biblioteca oferece grande liberdade na manipulação dos gráficos, e, para utilizarmos bem as suas ferramentas, precisamos conhecer a **anatomia das partes de um gráfico Matplotlib**.
 <br>
@@ -89,4 +89,4 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 
 <br><br>
 
-# **Abordagens de código: Pyplot x orientação a objetos**
+# **4. Abordagens de código: Pyplot x orientação a objetos**
