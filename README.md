@@ -106,7 +106,7 @@ y = np.arange(20,40,2)
 # Instancia os objetos Figure e o Axes em variáveis distintas
 fig, ax = plt.subplots()
 
-# Define as variáveis x e y como fonte para o Axes
+# Aplica o método plot (gera um gráfico de linha) ao Axes, usando os dados das variáveis x e y
 ax.plot(x, y)
 
 # Nomeia os eixos
