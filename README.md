@@ -89,3 +89,18 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 <br>
 
 # **4. Abordagens de código: Pyplot x orientação a objetos**
+
+Existem duas formas de se usar a biblioteca Matplotlib: a interface Pyplot ou a orientada a objetos.<br>
+
+## Orientação a objetos
+Utilizando a sintaxe OO (orientada a objetos), criamos explicitamente os elementos Figure e Axes. Isso nos permite maior liberdade para manipular os elementos do gráfico.
+`
+# comentário
+código aqui
+
+`
+
+
+## **Pyplot**
+Pyplot é um módulo da biblioteca que oferece uma abordagem de um pouco mais alto nível, baseada no software MATLAB.<br>
+
