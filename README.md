@@ -138,7 +138,7 @@ import matplotlib.pyplot as plt
 x = np.arange(1,20,2)
 y = np.arange(20,40,2)
 
-# Cria implicitamente os elementos Figure e Axes
+# Cria implicitamente os elementos Figure e Axes, ao escolher o tipo do gráfico
 plt.plot(x, y)
 
 # Adiciona os títulos
