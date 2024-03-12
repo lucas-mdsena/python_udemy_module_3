@@ -156,7 +156,6 @@ Mesmo em um exemplo simples, notamos que com o Pyplot temos menos linhas.
 <br>
 Seu uso é ideal para situações de plotagens rápidas, mas, ainda assim, muito pode ser feito usando o Pyplot e seus métodos. 
 <br>
-<br>
 
 > Não existe uma abordagem melhor do que a outra. A melhor ferramenta é aquela que oferece a melhor solução para o problema a ser respondido.
 > O usuário deve escolher a que melhor se adaptar, mas tendo ciência das possibilidades e das limitações que a escolha lhe oferece.
