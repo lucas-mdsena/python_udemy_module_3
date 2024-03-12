@@ -90,11 +90,13 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 
 # **4. Abordagens de código: Pyplot x orientação a objetos**
 
-Existem duas formas de se usar a biblioteca Matplotlib: a interface orientada a objetos ou a interface Pyplot.<br>
+Existem duas formas de se usar a biblioteca Matplotlib: a interface orientada a objetos ou a interface Pyplot.
+<br>
 
 ## Orientação a objetos
 Utilizando a sintaxe OO (orientada a objetos), criamos explicitamente os elementos Figure e Axes. Assim, temos mais liberdade para manipular, individualmente, os elementos da hierarquia do gráfico.<br>
 Vamos usar um exemplo simples para apresentar a utilização da sintaxe OO.
+
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -115,6 +117,7 @@ ax.set_title('Gráfico de linha - interface orientada a objetos') # define o tí
 # Exibe o gráfico
 plt.show()
 ```
+
 ![figure_intro-1](Imagens/grafico_oop.png)
 <br>
 
