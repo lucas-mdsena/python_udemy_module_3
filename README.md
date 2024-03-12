@@ -4,8 +4,8 @@ Este repositório contém os materiais utilizados nas aulas do módulo 2, no cur
 
 # **1. O horizonte de DataViz com Python e o objetivo deste módulo**
 
-Desde um simples gráfico de barras a um dashboard interativo, com a linguagem Python tem-se diversas ferramentas para visualização de dados e personalização gráfica. Entre elas pode-se destacar as bibliotecas Matplotlib, Seaborn, Plotly, Dash.
-<br><br>
+Desde um simples gráfico de barras a um dashboard interativo, com a linguagem Python tem-se diversas ferramentas para visualização de dados e personalização gráfica. Entre elas podem-se destacar as bibliotecas Matplotlib, Seaborn, Plotly, Dash.
+<br>
 
 Com todo esse recurso, o horizonte de possibilidades é bastante amplo. 
 <br>
@@ -14,7 +14,7 @@ Com todo esse recurso, o horizonte de possibilidades é bastante amplo.
 
 ### Gráfico de dispersão
 ![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/6df57e1e-d100-4da7-8a2b-28b802092961)
-<br>
+
 ### Histograma
 ![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/19f057eb-9c29-474e-b32f-bf6cd0683b1c)
 
@@ -23,11 +23,10 @@ Com todo esse recurso, o horizonte de possibilidades é bastante amplo.
 ### Gráfico de linhas sobre trabalho infantil
 ![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/d2258955-fc8c-4272-b0db-d9ebf6769a3f)<br>
 [Fonte](https://python-graph-gallery.com/web-lineplots-and-area-chart-the-economist/)
-<br>
+
 ### Gráfico lolipop mostrando as avaliações por temporada da série *The Office*
 ![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/3dc60a74-a7bf-4872-807a-78f7188abf4d)<br>
 [Fonte](https://python-graph-gallery.com/web-lollipop-plot-with-python-the-office/)
-<br>
 
 ## **Dashboards**
 ### [Sistema de controle de produção](https://dash.gallery/dash-manufacture-spc-dashboard/)
@@ -152,6 +151,7 @@ plt.title('Gráfico de linha - Pyplot')
 # Exibe o gráfico
 plt.show()
 ```
+
 ![figure_intro-1](Imagens/grafico_pyplot.png)
 <br>
 
