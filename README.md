@@ -173,6 +173,7 @@ Saber quem é o público e o que se espera que ele faça com o gráfico são per
 
 A escolha de um tipo de gráfico adequado vem da necessidade do que se deve responder ou explorar. Não existe verdade absoluta para a escolha, mas boas práticas que podem aumentar a eficácia da apresentação do gráfico.
 <br>
+
 Podemos resumir nossas necessidades de visualizações, por enquanto, em 4: **correlações, categorias, distribuições e evoluções/séries.**
 
 
