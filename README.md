@@ -99,11 +99,11 @@ Vamos usar um exemplo simples para apresentar a utilização da sintaxe OO.
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Nossos dados para o gráfico
+# Dados de exemplo para o gráfico
 x = np.arange(1,20,2)
 y = np.arange(20,40,2)
 
-# Instancia os objetos Figure e o Axes em variáveis distintas 
+# Instancia os objetos Figure (fig) e Axes (ax) em variáveis distintas 
 fig, ax = plt.subplots()
 
 # Aplicando métodos ao elemento Axes
@@ -118,7 +118,9 @@ plt.show()
 ![figure_intro-1](Imagens/grafico_oop.png)
 <br>
 
-Note que mesmo com a interface OO, usamos um método do Pyplot para instanciar a Figure e o Axes.
+Note que, mesmo com a interface OO, usamos um método do Pyplot para instanciar a Figure e o Axes.<br>
+Muito mais poderia ser feito em nosso gráfico, como definir o tamanho figure, quantos Axes serão plotados dentro dela, posição dos títulos, cores. Essa liberdade para manipular o gráfico dá mais poder ao usuário, mas costuma exigir mais linhas de código.
+<br>
 
 ## **Pyplot**
 Pyplot é um módulo da biblioteca que oferece uma abordagem de um pouco mais alto nível, baseada no software MATLAB.<br>
