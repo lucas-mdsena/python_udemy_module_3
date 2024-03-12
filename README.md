@@ -175,7 +175,9 @@ A escolha de um tipo de gráfico adequado vem da necessidade do que se deve resp
 <br>
 
 Podemos resumir nossas necessidades de visualizações, por enquanto, em 4: **correlações, categorias, distribuições e evoluções/séries.**
+<br>
 
+Vamos explorar esses 4 tipos de necessidades [na prática](https://github.com/lucas-mdsena/python_udemy_module_3/blob/main/notebook_matplotlib.ipynb).
 
 
 
