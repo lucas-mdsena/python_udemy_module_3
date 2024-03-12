@@ -31,7 +31,7 @@ Com todo esse recurso, o horizonte de possibilidades é bastante amplo.
 ## **Dashboards**
 ### [Sistema de controle de produção](https://dash.gallery/dash-manufacture-spc-dashboard/)
 [Fonte](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-manufacture-spc-dashboard)
-<br><br>
+<br>
 
 > Precisamos, portanto, ter um objetivo bem definido diante das possibilidades.
 
