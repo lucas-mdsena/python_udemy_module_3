@@ -90,20 +90,37 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 
 # **4. Abordagens de código: Pyplot x orientação a objetos**
 
-Existem duas formas de se usar a biblioteca Matplotlib: a interface Pyplot ou a orientada a objetos.<br>
+Existem duas formas de se usar a biblioteca Matplotlib: a interface orientada a objetos ou a interface Pyplot.<br>
 
 ## Orientação a objetos
-Utilizando a sintaxe OO (orientada a objetos), criamos explicitamente os elementos Figure e Axes. Isso nos permite maior liberdade para manipular os elementos do gráfico.
+Utilizando a sintaxe OO (orientada a objetos), criamos explicitamente os elementos Figure e Axes. Assim, temos mais liberdade para manipular, individualmente, os elementos da hierarquia do gráfico.<br>
+Vamos usar um exemplo simples para apresentar a utilização da sintaxe OO.
 ```
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.arange(0, 5, 0.1)
-y = np.sin(x)
-fig, ax = plt.subplots()
-ax.plot(x, y)
-```
+# Dados de exemplo para o gráfico
+x = np.arange(1,20,2)
+y = np.arange(20,40,2)
 
+# Instancia os objetos Figure (fig) e Axes (ax) em variáveis distintas 
+fig, ax = plt.subplots()
+
+# Aplicando métodos ao elemento Axes
+ax.plot(x, y) # plota os dados das variáveis x e y no Axes
+ax.set_xlabel('Eixo X') # nomeia o eixo x
+ax.set_ylabel('Eixo Y') # nomeia o eixo y
+ax.set_title('Gráfico de linha - interface orientada a objetos') # define o título do Axes
+
+# Exibe o gráfico
+plt.show()
+```
+![figure_intro-1](Imagens/grafico_oop.png)
+<br>
+
+Note que, mesmo com a interface OO, usamos um método do Pyplot para instanciar a Figure e o Axes.<br>
+Muito mais poderia ser feito em nosso gráfico, como definir o tamanho figure, quantos Axes serão plotados dentro dela, posição dos títulos, cores. Essa liberdade para manipular o gráfico dá mais poder ao usuário, mas costuma exigir mais linhas de código.
+<br>
 
 ## **Pyplot**
 Pyplot é um módulo da biblioteca que oferece uma abordagem de um pouco mais alto nível, baseada no software MATLAB.<br>
