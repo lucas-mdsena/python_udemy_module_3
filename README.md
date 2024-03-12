@@ -168,7 +168,7 @@ A partir de agora, seguiremos utilizando a abordagem de orientação a objetos e
 
 # **5. Como escolher qual o tipo de gráfico usar?**
 
-A escolhe de um tipo de gráfico adequado vem da necessidade do que se deve responder ou explorar. Não existe verdade absoluta para a escolha, mas boas práticas que podem aumentar a eficácia da apresentação do gráfico.
+A escolha de um tipo de gráfico adequado vem da necessidade do que se deve responder ou explorar. Não existe verdade absoluta para a escolha, mas boas práticas que podem aumentar a eficácia da apresentação do gráfico.
 <br>
 Podemos resumir nossas necessidades de visualizações, por enquanto, em 4: **categorias, correlações, distribuições e evoluções/séries.**
 
