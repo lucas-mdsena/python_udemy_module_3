@@ -159,8 +159,9 @@ Seu uso é ideal para situações de plotagens rápidas, mas, ainda assim, muito
 <br>
 
 > Não existe uma abordagem melhor do que a outra. A melhor ferramenta é aquela que oferece a melhor solução para o problema a ser respondido.
-> O usuário deve escolher a que melhor se adaptar, mas tendo ciência das possibilidades e limitações que a escolha lhe oferece.
+> O usuário deve escolher a que melhor se adaptar, mas tendo ciência das possibilidades e das limitações que a escolha lhe oferece.
 
+A partir de agora, seguiremos utilizando a abordagem de orientação a objetos em nosso curso. A melhor capacidade de personalização irá nos ajudar no momento de, por exemplo, plotagem de múltiplos Axes em uma Figure. 
+<br><br>
 
-
-
+# **5. Como escolher qual o tipo de gráfico usar?**
