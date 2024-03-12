@@ -4,7 +4,7 @@ Este repositório contém os materiais utilizados nas aulas do módulo 2, no cur
 
 # **1. O horizonte de DataViz com Python e o objetivo deste módulo**
 
-Desde um simples gráfico de barras a um dashboard interativo, com a linguagem Python tem-se diversas ferramentas para visualização de dados e customização gráfica. Entre elas pode-se destacar as bibliotecas Matplotlib, Seaborn, Plotly, Dash.
+Desde um simples gráfico de barras a um dashboard interativo, com a linguagem Python tem-se diversas ferramentas para visualização de dados e personalização gráfica. Entre elas pode-se destacar as bibliotecas Matplotlib, Seaborn, Plotly, Dash.
 <br><br>
 
 Com todo esse recurso, o horizonte de possibilidades é bastante amplo. 
@@ -118,10 +118,40 @@ plt.show()
 ![figure_intro-1](Imagens/grafico_oop.png)
 <br>
 
-Note que, mesmo com a interface OO, usamos um método do Pyplot para instanciar a Figure e o Axes.<br>
+Note que, mesmo com a interface OO, usamos um método do Pyplot para instanciar a Figure e o Axes.
+<br>
 Muito mais poderia ser feito em nosso gráfico, como definir o tamanho figure, quantos Axes serão plotados dentro dela, posição dos títulos, cores. Essa liberdade para manipular o gráfico dá mais poder ao usuário, mas costuma exigir mais linhas de código.
 <br>
 
 ## **Pyplot**
-Pyplot é um módulo da biblioteca que oferece uma abordagem de um pouco mais alto nível, baseada no software MATLAB.<br>
+Pyplot é um módulo da biblioteca Matplotlib que oferece uma abordagem de um pouco mais alto nível, baseada no software MATLAB.
+<br>
+Em contrapartida à interface OO, é mais simplificado, mas não oferece a mesma liberdade e possibilidades na personalização do gráfico.
+<br>
+Vamos recriar o mesmo gráfico acima usando o Pyplot.
+
+```
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Dados de exemplo para o gráfico
+x = np.arange(1,20,2)
+y = np.arange(20,40,2)
+
+# Cria implicitamente os elementos Figure e Axes
+plt.plot(x, y)
+
+# Adiciona os títulos
+plt.xlabel('Eixo X')
+plt.ylabel('Eixo Y')
+plt.title('Gráfico de linha - Pyplot')
+
+# Exibe o gráfico
+plt.show()
+```
+![figure_intro-1](Imagens/grafico_pyplot.png)
+<br>
+
+
+
 
