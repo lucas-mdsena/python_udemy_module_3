@@ -103,12 +103,11 @@ import matplotlib.pyplot as plt
 x = np.arange(1,20,2)
 y = np.arange(20,40,2)
 
-# Instancia os objetos Figure e o Axes em variáveis distintas (mesmo com a interface OO, usamos um método do Pyplot para instanciar a Figure e o Axes)
-# A variável fig representa o elemento Figure e a variável ax, o Axes
+# Instancia os objetos Figure e o Axes em variáveis distintas 
 fig, ax = plt.subplots()
 
 # Aplicando métodos ao elemento Axes
-ax.plot(x, y) # o método plot (gera um gráfico de linha) ao Axes, usando os dados das variáveis x e y
+ax.plot(x, y) # plota os dados das variáveis x e y no Axes
 ax.set_xlabel('Eixo X') # nomeia o eixo x
 ax.set_ylabel('Eixo Y') # nomeia o eixo y
 ax.set_title('Gráfico de linha - interface orientada a objetos') # define o título do Axes
@@ -117,7 +116,9 @@ ax.set_title('Gráfico de linha - interface orientada a objetos') # define o tí
 plt.show()
 ```
 ![figure_intro-1](Imagens/grafico_oop.png)
+<br>
 
+Note que mesmo com a interface OO, usamos um método do Pyplot para instanciar a Figure e o Axes.
 
 ## **Pyplot**
 Pyplot é um módulo da biblioteca que oferece uma abordagem de um pouco mais alto nível, baseada no software MATLAB.<br>
