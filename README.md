@@ -73,6 +73,7 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 
   <img src="Imagens/figure_intro-2.png" width="600">
   <br>
+  
   *A imagem acima mostra uma figure com 4 axes.*
   <br>
   [Fonte](https://matplotlib.org/stable/users/explain/figure/figure_intro.html#figure-intro)
