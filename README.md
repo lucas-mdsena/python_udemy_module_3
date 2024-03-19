@@ -13,7 +13,7 @@ Com todo esse recurso, o horizonte de possibilidades é bastante amplo.
 ## **Gráficos comuns**
 
 ### Gráfico de dispersão
-<img src="https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/6df57e1e-d100-4da7-8a2b-28b802092961" alt="disp1" width="600">
+![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/6df57e1e-d100-4da7-8a2b-28b802092961)
 
 ### Histograma
 <img src="https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/19f057eb-9c29-474e-b32f-bf6cd0683b1c" alt="disp1" width="600">
