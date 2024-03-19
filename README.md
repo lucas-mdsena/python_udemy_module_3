@@ -82,7 +82,7 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 - **Artist**: todos os elementos dentro de uma figure são os artist e também o que é plotado dentro de uma figure.
   <br>
 
-  <img src="Imagens/anatomy.webp" widht="600">
+  <img src="Imagens/anatomy.webp" width="600">
   
 <br>
 
