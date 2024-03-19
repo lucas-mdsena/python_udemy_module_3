@@ -13,19 +13,19 @@ Com todo esse recurso, o horizonte de possibilidades é bastante amplo.
 ## **Gráficos comuns**
 
 ### Gráfico de dispersão
-![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/6df57e1e-d100-4da7-8a2b-28b802092961)
+<img src="https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/6df57e1e-d100-4da7-8a2b-28b802092961" alt="disp1" width="600">
 
 ### Histograma
-![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/19f057eb-9c29-474e-b32f-bf6cd0683b1c)
+<img src="https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/19f057eb-9c29-474e-b32f-bf6cd0683b1c" alt="disp1" width="600">
 
 ## **Gráficos avançados**
 
 ### Gráfico de linhas sobre trabalho infantil
-![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/d2258955-fc8c-4272-b0db-d9ebf6769a3f)<br>
+<img src="https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/d2258955-fc8c-4272-b0db-d9ebf6769a3f" alt="disp1" width="600"> <br>
 [Fonte](https://python-graph-gallery.com/web-lineplots-and-area-chart-the-economist/)
 
 ### Gráfico lolipop mostrando as avaliações por temporada da série *The Office*
-![image](https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/3dc60a74-a7bf-4872-807a-78f7188abf4d)<br>
+<img src="https://github.com/lucas-mdsena/python_udemy_module_3/assets/93884007/3dc60a74-a7bf-4872-807a-78f7188abf4d" alt="disp1" width="600"><br>
 [Fonte](https://python-graph-gallery.com/web-lollipop-plot-with-python-the-office/)
 
 ## **Dashboards**
@@ -61,8 +61,7 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 
 - **Figure**: é a parte mais abrangente da plotagem, o quadro onde será criado um ou mais gráficos.
   <br>
-
-  ![figure_intro-1](Imagens/figure_intro-1.png)
+  <img src="Imagens/figure_intro-1.png" width="600">
   <br>
   *A região em azul na imagem é a figure, que possui apenas 1 gráfico plotado.*
   <br>
@@ -72,7 +71,7 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 - **Axes**: é a parte de uma figure que contém o gráfico plotado, e uma figure pode ter vários axes. Axes possuem 2 Axis (em gráficos bidimensionais), um título, e labels para os eixos x e y.
   <br>
 
-  ![figure_intro-1](Imagens/figure_intro-2.png)
+  <img src="Imagens/figure_intro-2.png" width="600">
   <br>
   *A imagem acima mostra uma figure com 4 axes.*
   <br>
@@ -83,7 +82,7 @@ Existem 4 elementos principais que compõem um gráficos e, de fora para dentro,
 - **Artist**: todos os elementos dentro de uma figure são os artist e também o que é plotado dentro de uma figure.
   <br>
 
-  ![figure_intro-1](Imagens/anatomy.webp)
+  <img src="Imagens/anatomy.webp" widht="600">
   
 <br>
 
@@ -117,7 +116,7 @@ ax.set_title('Gráfico de linha - interface orientada a objetos') # define o tí
 plt.show()
 ```
 
-![figure_intro-1](Imagens/grafico_oop.png)
+<img src="Imagens/grafico_oop.png" widht="600">
 <br>
 
 Note que, mesmo com a interface OO, usamos um método do Pyplot para instanciar a Figure e o Axes.
@@ -152,7 +151,7 @@ plt.title('Gráfico de linha - Pyplot')
 plt.show()
 ```
 
-![figure_intro-1](Imagens/grafico_pyplot.png)
+<img src="Imagens/grafico_pyplot.png" widht="600">
 <br>
 
 Mesmo em um exemplo simples, notamos que com o Pyplot temos menos linhas.
