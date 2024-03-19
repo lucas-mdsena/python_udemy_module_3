@@ -40,8 +40,7 @@ Com o foco do nosso curso sendo uma abordagem geral sobre a linguagem Python par
 - Abordagens de sintaxe da biblioteca;
 - Escolha do tipo de gráfico adequado ao problema;
 - Criação de gráficos para visualização de categorias, correlações, distribuições e evoluções;
-- Boas práticas na estilização de gráficos;
-- Uma pitada sobre storytelling.
+- Boas práticas na estilização de gráficos.
 <br><br>
 
 # **2. Biblioteca Matplotlib**
