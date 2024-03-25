@@ -1,5 +1,5 @@
 # **Visualização de dados**
-Este repositório contém os materiais utilizados nas aulas do módulo 2, no curso da Udemy.
+Este repositório contém os materiais utilizados nas aulas do módulo 3, no curso da Udemy.
 ***
 
 # **1. O horizonte de DataViz com Python e o objetivo deste módulo**
